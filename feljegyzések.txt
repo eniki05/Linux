@@ -1,0 +1,4 @@
+host gép címe: 192.168.0.213
+virtuális gép ip címe: 192.168.0.32/24
+virtuális gép mac címe: 08:00:27:ae:7c:d8
+konténer ip-címe: 172.17.0.2
